@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "img": "../../images/soup.jpg",
+        "price": "$69.00",
+        "desc": "Bien que la soupe soit considérée comme un plat réconfortant et nourrissant, cette soupe particulière peut laisser les papilles gustatives désappointées. Sa consistance est mince et manque de corps, et elle a une apparence terne et peu attrayante. Le goût est fade et manque de saveur, avec une quantité excessive de sel qui domine le palais. Les légumes sont bouillis et trop cuits, perdant leur texture croquante et leur saveur naturelle. Dans l'ensemble, cette soupe est plutôt décevante et peu appétissante, ne valant pas la peine d'être dégustée.",
+        "title": "soup"
+    },
+    {
+        "id": 2,
+        "img": "../../images/krabbyPatty.jpg",
+        "price": "$420.00",
+        "desc": "Le Krabby Patty est l'un des plats les plus appréciés dans le monde des dessins animés, et pour une bonne raison. Ce sandwich à base de fruits de mer est préparé avec des ingrédients frais et de qualité, qui sont soigneusement sélectionnés pour créer une explosion de saveurs dans chaque bouchée. Le patty de crabe est juteux et succulent, et le pain est moelleux et légèrement grillé. La laitue, les tomates et les cornichons ajoutent une texture croquante et une touche de fraîcheur, tandis que la sauce secrète de M. Krabs donne au sandwich une saveur unique et délicieuse. Dans l'ensemble, le Krabby Patty est un plat savoureux et satisfaisant qui mérite sa place dans les annales de la cuisine de dessins animés.",
+        "title": "Krabby Patty"
+    },
+    {
+        "id": 3,
+        "img": "../../images/toothpaste.jpg",
+        "price": "$9999.00",
+        "desc": "tóóthpàsté",
+        "title": "toothpaste"
+    }
+]
